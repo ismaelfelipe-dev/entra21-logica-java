@@ -20,7 +20,6 @@ Aqui estão reunidos exercícios, exemplos e práticas desenvolvidas durante as 
 * Entrada e saída de dados
 * Estruturas condicionais
 * Laços de repetição
-* Métodos
 * Arrays
 
 ---
@@ -40,7 +39,7 @@ Consolidar a base de lógica de programação e desenvolver o raciocínio lógic
 
 ## 📌 Status
 
-🚧 Em desenvolvimento contínuo...
+✅ Formação concluída e documentada neste repositório.
 
 ---
 
